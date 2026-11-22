@@ -22,7 +22,7 @@ Hi! I'm Raphy, a 10th grade student based in the Philadelphia area. I build prof
 
 My focus work sits where AI models, firmware, sensors, and analytics meet: getting a physical device to obtain data or sense its surroundings, process the data/what it sees, and act on it reliably in the real world.
 
-Additionally, I'm very interested in **quantum computing**. Currently, I am exploring Variational Quantum Eigensolver (VQE) and Quantum Approximate Optimization Algorithm (QAOA) optimization. The process of how these circuits get compiled onto real hardware using qubit routing and transpilation is fascinating to me, and I’m learning to build and simulate my own quantum circuits with Qiskit. I would be thrilled to have the opportunity to learn about and research this further!
+Additionally, I'm very interested in **quantum computing**. The process of how quantum circuits get compiled onto real hardware using qubit routing and transpilation is fascinating to me, and I’m learning to build and simulate my own quantum circuits with Qiskit. I would be thrilled to have the opportunity to learn about and research this further!
 
 <br />
 
